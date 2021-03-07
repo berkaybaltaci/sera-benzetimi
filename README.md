@@ -2,7 +2,7 @@ Bu proje mobil applikasyon ile sıcaklığı kontrol edilen ve bir proteus devre
 
 sera1 benzetmesini yapan bilgisayarda COM3,\
 sera2 benzetmesini yapan bilgisayarda COM4,\
-sera3 benzetmesini yapan bilgisayarda COM5,\
+sera3 benzetmesini yapan bilgisayarda COM5,
 
 sanal seri portu "virtual serial ports emulator" programıyla açılmalıdır.
 
